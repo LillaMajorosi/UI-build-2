@@ -1,5 +1,7 @@
 body{ 
     background-color: #4343F9;
+    height: 100vh;
+    width: 100vh;
 }
 
 button {
@@ -12,8 +14,10 @@ button {
 
     position: fixed;
     display: block;
-    margin-top: 150px;
-    margin-left: 150px;
+    left:50%;
+    top:50%;
+    margin-left:-150px;
+    margin-top:-150px;
 
     padding: 0 0 0 0;
 
